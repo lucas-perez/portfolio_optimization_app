@@ -228,7 +228,7 @@ virtualenv==16.7.7
 Wand==0.5.4
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.1.0
 workbench==0.3.6
 wrapt==1.10.11
