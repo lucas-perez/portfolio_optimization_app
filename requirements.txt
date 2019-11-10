@@ -182,7 +182,7 @@ python-louvain==0.13
 python-pptx==0.6.5
 pytz==2017.3
 PyWavelets==0.5.2
-PyYAML==3.12
+PyYAML==5.1
 pyzmq==16.0.3
 QtAwesome==0.4.4
 qtconsole==4.3.1
